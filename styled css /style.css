@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f7f7f7;
+  background-color:blue;
   margin: 0;
   padding: 2em;
 }
 .container {
   max-width: 600px;
   margin: auto;
-  background: white;
+  background: red;
   padding: 2em;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -24,7 +24,7 @@ form {
 li {
   padding: 10px;
   margin-bottom: 10px;
-  background: #f0f0f0;
+  background: blue;
   border-radius: 4px;
   display: flex;
   justify-content: space-between;
@@ -34,7 +34,7 @@ li {
 li span.category {
   padding: 2px 6px;
   border-radius: 4px;
-  color: white;
+  color:blue;
   margin-left: 10px;
   font-size: 0.9em;
 }
