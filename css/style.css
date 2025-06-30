@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: blue;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+#guest-list li {
+  padding: 10px;
+  margin-bottom: 10px;
+  background:blue;
+  border-left: 8px solid gray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.friend { border-color: blue; }
+.family { border-color: green; }
+.colleague { border-color: orange; }
+
+button {
+  margin-left: 5px;
+}
